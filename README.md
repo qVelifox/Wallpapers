@@ -1,8 +1,4 @@
----
-
-## Monochrome
-
-Here are my wallpapers, not a lot for now, but I'll keep adding more to the repo over time.
+#### Here are my wallpapers, not a lot for now, but I'll keep adding more to the repo over time.
 ---
 <table>
   <tr>
