@@ -1,5 +1,6 @@
-#### Here are my wallpapers, not a lot for now, but I'll keep adding more to the repo over time.
----
+# Wallpapers 
+Here are my wallpapers, not a lot for now, but I'll keep adding more to the repo over time.
+
 <table>
   <tr>
     <td width="33%"><img src="./Wallpapers/Clouds.jpg" width="100%" alt="Clouds"></td>
